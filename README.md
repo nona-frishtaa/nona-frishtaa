@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git_profile.jpeg" width="200px" style="border-radius: 100%;">
+  <img src="git_profile.jpeg" width="180px" style="border-radius: 100%;">
 </p>
 # Halo, Saya Frsihta Riris Annesa Tambunan! 👋
 
